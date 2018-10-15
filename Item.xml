@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+ <MenuData>
+  <Menu_name>Pizza</Menu_name>
+  <Item_name>Chese</Item_name>
+  <Price>5.32</Price>
+ </MenuData>
+
+<MenuData>
+  <Menu_name>Pizza</Menu_name>
+  <Item_name>Chicken</Item_name>
+  <Price>65.2</Price>
+</MenuData>
+
+<MenuData>
+  <Menu_name>Pizza</Menu_name>
+  <Item_name>Beef</Item_name>
+  <Price>5.32$</Price>
+</MenuData>
+
+<MenuData>
+  <Menu_name>Pizza</Menu_name>
+  <Item_name>Ham</Item_name>
+  <Price>6.85$</Price>
+</MenuData>
+
+<MenuData>
+  <Menu_name>Pizza</Menu_name>
+  <Item_name>Meatball</Item_name>
+  <Price>6.85$</Price>
+</MenuData>
+
+<MenuData>
+  <Menu_name>Pizza</Menu_name>
+  <Item_name>Hawaiian</Item_name>
+  <Price>6.85$</Price>
+</MenuData>
+
+<MenuData>
+  <Menu_name>Salads</Menu_name>
+  <Item_name>Garden</Item_name>
+  <Price>3.50$</Price>
+</MenuData>
+
+<MenuData>
+  <Menu_name>Salads</Menu_name>
+  <Item_name>Greek</Item_name>
+  <Price>4.50$</Price>
+</MenuData>
+
+<MenuData>
+  <Menu_name>Salads</Menu_name>
+  <Item_name>Antipasto</Item_name>
+  <Price>4.50$</Price>
+</MenuData>
+
+<MenuData>
+  <Menu_name>Salads</Menu_name>
+  <Item_name>Chef</Item_name>
+  <Price>4.50$</Price>
+</MenuData>
+
+<MenuData>
+  <Menu_name>Salads</Menu_name>
+  <Item_name>Tuna</Item_name>
+  <Price>4.50$</Price>
+</MenuData>
+
+<MenuData>
+  <Menu_name>Salads</Menu_name>
+  <Item_name>Grilled Chicken</Item_name>
+  <Price>4.50$</Price>
+</MenuData>
+
+<MenuData>
+  <Menu_name>Pizza</Menu_name>
+  <Item_name>Chilly</Item_name>
+  <Price>3.45$</Price>
+</MenuData>
+
+ <MenuData>
+  <Menu_name>Pizza</Menu_name>
+  <Item_name>SubPizza</Item_name>
+  <Price>56545</Price>
+ </MenuData>
+</information>
+
